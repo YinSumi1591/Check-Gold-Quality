@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+index.html
+style.css
+script.js
 <html>
   <head>
     <title>ราคาทองคำวันนี้</title>
